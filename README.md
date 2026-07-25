@@ -1,4 +1,4 @@
-# Mentiva AI — Local dev
+# Mentiva AI — Local dev:
 
 https://mentiva-ai.vercel.app/
 
