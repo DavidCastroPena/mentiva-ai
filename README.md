@@ -1,5 +1,7 @@
 # Mentiva AI — Local dev
 
+https://mentiva-ai.vercel.app/
+
 Quick start:
 
 1. Copy `.env.local.example` to `.env.local` and add your `GEMINI_API_KEY` and `GEMINI_API_URL` (you already have `.env.local`).
